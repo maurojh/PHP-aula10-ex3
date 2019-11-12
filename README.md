@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-11-12 ter 16:58 -->
+<!-- 2019-11-12 ter 17:00 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
@@ -232,26 +232,27 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orge6d1b33">1. Mercado</a>
+<li><a href="#org2170166">1. Mercado</a>
 <ul>
-<li><a href="#org7f658c3">1.1. Exercício 1</a></li>
-<li><a href="#orgf1c1c13">1.2. Exercício 2</a></li>
-<li><a href="#org8097690">1.3. Exercício 3</a></li>
+<li><a href="#org8ca78c6">1.1. Exercício 1</a></li>
+<li><a href="#org0d3a16b">1.2. Exercício 2</a></li>
+<li><a href="#org3d33efe">1.3. Exercício 3</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orge6d1b33" class="outline-2">
-<h2 id="orge6d1b33"><span class="section-number-2">1</span> Mercado</h2>
+
+<div id="outline-container-org2170166" class="outline-2">
+<h2 id="org2170166"><span class="section-number-2">1</span> Mercado</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 Na aula de hoje vamos criar um sistema de cadastro de produtos.
 </p>
 </div>
 
-<div id="outline-container-org7f658c3" class="outline-3">
-<h3 id="org7f658c3"><span class="section-number-3">1.1</span> Exercício 1</h3>
+<div id="outline-container-org8ca78c6" class="outline-3">
+<h3 id="org8ca78c6"><span class="section-number-3">1.1</span> Exercício 1</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 Execute o wampserver64, acesse <a href="http://localhost/phpmyadmin">http://localhost/phpmyadmin</a> e importe o arquivo abaixo para criar o banco e a tabela:
@@ -307,8 +308,8 @@ COMMIT;
 </div>
 </div>
 
-<div id="outline-container-orgf1c1c13" class="outline-3">
-<h3 id="orgf1c1c13"><span class="section-number-3">1.2</span> Exercício 2</h3>
+<div id="outline-container-org0d3a16b" class="outline-3">
+<h3 id="org0d3a16b"><span class="section-number-3">1.2</span> Exercício 2</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Crie a página <b>form.php</b> que recebe os seguintes dados do produto:
@@ -337,20 +338,19 @@ Lembre-se que a imagem será enviada e por isso o elemento form deve conter, al�
 </div>
 </div>
 
-<div id="outline-container-org8097690" class="outline-3">
-<h3 id="org8097690"><span class="section-number-3">1.3</span> Exercício 3</h3>
+<div id="outline-container-org3d33efe" class="outline-3">
+<h3 id="org3d33efe"><span class="section-number-3">1.3</span> Exercício 3</h3>
 <div class="outline-text-3" id="text-1-3">
 <p>
-Crie a página <b>cadastro<sub>produto.php</sub></b> que recebe os dados fornecidos em <b>form.php</b>. A página deve mover a imagem enviada para uma pasta chamada <b>imagens</b>, além disso ela deve salvar os dados na tabela produtos.
+Crie a página <b>cadastro_produto.php</b> que recebe os dados fornecidos em <b>form.php</b>. A página deve mover a imagem enviada para uma pasta chamada <b>imagens</b>, além disso ela deve salvar os dados na tabela produtos.
 </p>
 </div>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2019-11-12 ter 16:58</p>
+<p class="date">Created: 2019-11-12 ter 17:00</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
-
